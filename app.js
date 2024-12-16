@@ -81,3 +81,62 @@
 // } else {
 //     console.log("yolgon");
 // }
+
+//Boolen-3
+
+// let a = prompt("a sonni kiriting");
+// let b = prompt("b sonni kiriting");
+// let c = prompt("c sonni kiriting");
+
+// if (a < b && b < c) {
+//     console.log("Rost");
+// } else {
+//     console.log("yolgon");
+// }
+
+//Boolen-4
+
+// let a = prompt("a sonni kiriting");
+// let b = prompt("b sonni kiriting");
+
+// if (a % 2 && b % 2) {
+//     console.log("Yolgon");
+// } else {
+//     console.log("Rost");
+// }
+
+//Boolen-7
+
+// let a = prompt("a sonni kiriting");
+// let b = prompt("b sonni kiriting");
+// let c = prompt("c sonni kiriting");
+
+// if (0 <= a && 0 <= b && 0 <= c) {
+//     console.log("Bu sonlar musbat:Rost");
+// } else {
+//     console.log("Yolgon");
+// }
+
+// Boolen-8
+
+// let a = prompt("a sonni kiriting");
+// let b = prompt("b sonni kiriting");
+// let c = prompt("c sonni kiriting");
+
+// if (0 <= a || 0 <= b || 0 <= c) {
+//     console.log("Rost");
+// } else {
+//     console.log("Yolgon");
+// }
+
+// Boolen-9
+
+// let a = prompt("a sonni kiriting");
+// let b = prompt("b sonni kiriting");
+// let c = prompt("c sonni kiriting");
+
+// if ((0 <= a && 0 <= b) || 0 <= c) {
+//     console.log("Rost");
+// } else {
+//     console.log("Yolgon");
+// }
